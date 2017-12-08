@@ -1,0 +1,6 @@
+
+small_tools/*.asv
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
